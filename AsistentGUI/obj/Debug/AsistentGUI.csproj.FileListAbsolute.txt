@@ -1,0 +1,4 @@
+C:\Users\korisnik\Desktop\Izrada-korisni-kog-su-elja---dodavanje-kontrola-master\AsistentGUI\obj\Debug\AsistentGUI.csprojAssemblyReference.cache
+C:\Users\korisnik\Desktop\Izrada-korisni-kog-su-elja---dodavanje-kontrola-master\AsistentGUI\obj\Debug\AsistentGUI.DodavanjeEkipe.resources
+C:\Users\korisnik\Desktop\Izrada-korisni-kog-su-elja---dodavanje-kontrola-master\AsistentGUI\obj\Debug\AsistentGUI.Properties.Resources.resources
+C:\Users\korisnik\Desktop\Izrada-korisni-kog-su-elja---dodavanje-kontrola-master\AsistentGUI\obj\Debug\AsistentGUI.csproj.GenerateResource.cache
